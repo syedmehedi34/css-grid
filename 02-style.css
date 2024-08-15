@@ -1,0 +1,22 @@
+.container {
+    height: 90%;
+    display: grid;
+    grid-template-columns: repeat(5, 100px);
+    grid-template-rows: repeat(2, 90px);
+    grid-gap: 5px;
+    justify-content: center;
+    align-content: center;
+
+    justify-items: end;
+
+}
+
+
+
+
+
+
+
+
+
+
